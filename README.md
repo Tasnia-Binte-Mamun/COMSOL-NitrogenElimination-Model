@@ -13,4 +13,14 @@ A simple model is developed to study the process of diffusion of nitrogen from t
 • The network of blood vessels fully covers the alveoli surface. The simplified geometry used for the model is shown. The nitrogen is removed from the blood stream through the 
 layer of cells into the air in the alveolus.
 
+#### Observation of surface concentration of Nitrogen-
 
+<img src="Images\Surface concentration.png" alt="Image" width="200" height="200"/>
+
+#### Observation of normal total flux of Nitrogen-
+
+<img src="Images\Normal total flux.png" alt="Image" width="200" height="200"/>
+
+Flux is higher on the inlet side of the alveolus because the blood nitrogen concentration is at a maximum on that boundary. As nitrogen diffuses out, the blood concentration decreases and the drive for nitrogen also decreases, resulting in a steadily declining flux along the length of the alveolus. Hence, the rate of nitrogen removal from the bloodstream decreases as the blood nitrogen concentration decreases. 
+
+The results of this study indicate that recreational divers who cannot decompress at a sufficiently slow rate, should breathe deeply upon surfacing to aid in nitrogen elimination and prevent serious illness from the bends. 
