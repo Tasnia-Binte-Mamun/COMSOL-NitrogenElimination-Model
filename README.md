@@ -6,7 +6,7 @@ During deep sea diving, nitrogen dissolves into the bloodstream under high press
 
 A simple model is developed to study the process of diffusion of nitrogen from the blood stream to the alveolus through a thin layer of epithelial cells during deep sea diving. The problem is simplified by assuming that-
 
-<img src="Images\Modeling.png" alt="Image" width="300" height="150"/>
+<img src="Images\Modeling.png" alt="Image" width="350" height="150"/>
 
 • The entire network of blood vessels can be modeled as a layer of blood stream flowing over a thin layer of epithelial cells in 2D. 
 
